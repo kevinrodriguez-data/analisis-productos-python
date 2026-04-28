@@ -1,25 +1,18 @@
 
+
 # 📊 Análisis de Productos con Python
 
 Este proyecto realiza un análisis básico de productos utilizando Python.
 
-## 🧠 ¿Qué problema resuelve?
+## 🧠 Problema que resuelve
 
-Este proyecto simula un análisis de inventario para identificar qué productos generan mayor valor total, facilitando la toma de decisiones.
+Simula el análisis de un inventario para identificar qué productos generan mayor valor total, facilitando la toma de decisiones.
 
 ## 🚀 Funcionalidades
 
 - Cálculo de valor total (precio * stock)
-- Identificación de productos costosos
-- Ordenamiento de productos por valor total
-
-## 🛠️ Tecnologías
-
-- Python
-
-## 📈 Objetivo
-
-Practicar análisis de datos y lógica de programación aplicados a un caso real.
+- Identificación de productos más valiosos
+- Ordenamiento de datos
 
 ## 📊 Ejemplo de salida
 
@@ -29,3 +22,12 @@ Practicar análisis de datos y lógica de programación aplicados a un caso real
   {'nombre': 'Monitor', 'valor_total': 900},
   {'nombre': 'Teclado', 'valor_total': 800}
 ]
+
+## 🛠️ Tecnologías
+
+- Python
+
+## ▶️ Cómo ejecutar
+
+```bash
+python main.py
