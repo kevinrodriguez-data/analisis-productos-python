@@ -3,6 +3,10 @@
 
 Este proyecto realiza un análisis básico de productos utilizando Python.
 
+## 🧠 ¿Qué problema resuelve?
+
+Este proyecto simula un análisis de inventario para identificar qué productos generan mayor valor total, facilitando la toma de decisiones.
+
 ## 🚀 Funcionalidades
 
 - Cálculo de valor total (precio * stock)
