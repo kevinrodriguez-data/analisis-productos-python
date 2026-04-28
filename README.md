@@ -16,3 +16,12 @@ Este proyecto realiza un análisis básico de productos utilizando Python.
 ## 📈 Objetivo
 
 Practicar análisis de datos y lógica de programación aplicados a un caso real.
+
+## 📊 Ejemplo de salida
+
+[
+  {'nombre': 'Laptop', 'valor_total': 5000},
+  {'nombre': 'Mouse', 'valor_total': 1000},
+  {'nombre': 'Monitor', 'valor_total': 900},
+  {'nombre': 'Teclado', 'valor_total': 800}
+]
